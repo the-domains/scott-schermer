@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'null'
-datePublished: '2016-03-20T23:33:40.334Z'
-dateModified: '2016-03-20T23:33:08.601Z'
+datePublished: '2016-03-20T23:36:21.283Z'
+dateModified: '2016-03-20T23:33:56.401Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-19-my-name-is-scott-i-love-to-create-things.md
